@@ -1,8 +1,5 @@
 # Semantic Kernel Agent with A2A Protocol
 
-- origin from this: https://github.com/google/A2A/tree/main/samples/python/agents/semantickernel
-
-
 This sample demonstrates how to implement a travel agent built on [Semantic Kernel](https://github.com/microsoft/semantic-kernel/) and exposed through the A2A protocol. It showcases:
 
 - **Multi-turn interactions**: The agent may request clarifications
